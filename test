@@ -1,1 +1,6 @@
 This file is added for testing
+
+It makes a preview from an url, grabbing all informations. Such as title, relevant texts and images. 
+
+This a version for Android of my web link preview 
+http://lab.leocardz.com/facebook-link-preview-php--jquery/ http://android.leocardz.com/android-link-preview/
